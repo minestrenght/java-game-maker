@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+  <sprite>
+    <location mapid="5" xaxis="1440.0" yaxis="688.0" />
+    <appearance ref="0001" />
+    <variables>
+      <variable index="0" value="0" />
+      <variable index="1" value="0" />
+      <variable index="2" value="0" />
+      <variable index="3" value="0" />
+      <variable index="4" value="0" />
+      <variable index="5" value="0" />
+      <variable index="6" value="0" />
+      <variable index="7" value="0" />
+      <variable index="8" value="0" />
+      <variable index="9" value="0" />
+    </variables>
+  </sprite>
+  <gamemap id="0">
+    <perspective front="0.8428571428571429" back="0.8428571428571429" horizon="1177.0" />
+    <foreground>
+      <foregrounditem img="foreground-13292599.png" xaxis="650" yaxis="813" />
+    </foreground>
+    <background img="background-3315058.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="1279" yaxis="342" />
+        <point index="1" xaxis="994" yaxis="348" />
+        <point index="2" xaxis="1002" yaxis="400" />
+        <point index="3" xaxis="986" yaxis="427" />
+        <point index="4" xaxis="966" yaxis="432" />
+        <point index="5" xaxis="938" yaxis="415" />
+        <point index="6" xaxis="946" yaxis="398" />
+        <point index="7" xaxis="933" yaxis="385" />
+        <point index="8" xaxis="784" yaxis="464" />
+        <point index="9" xaxis="731" yaxis="435" />
+        <point index="10" xaxis="650" yaxis="480" />
+        <point index="11" xaxis="647" yaxis="500" />
+        <point index="12" xaxis="591" yaxis="526" />
+        <point index="13" xaxis="625" yaxis="561" />
+        <point index="14" xaxis="618" yaxis="588" />
+        <point index="15" xaxis="599" yaxis="592" />
+        <point index="16" xaxis="625" yaxis="603" />
+        <point index="17" xaxis="658" yaxis="542" />
+        <point index="18" xaxis="677" yaxis="513" />
+        <point index="19" xaxis="756" yaxis="491" />
+        <point index="20" xaxis="782" yaxis="521" />
+        <point index="21" xaxis="778" yaxis="572" />
+        <point index="22" xaxis="707" yaxis="594" />
+        <point index="23" xaxis="676" yaxis="578" />
+        <point index="24" xaxis="650" yaxis="613" />
+        <point index="25" xaxis="877" yaxis="758" />
+        <point index="26" xaxis="1237" yaxis="602" />
+        <point index="27" xaxis="1328" yaxis="485" />
+        <point index="28" xaxis="1300" yaxis="345" />
+      </area>
+      <area>
+        <point index="0" xaxis="646" yaxis="550" />
+        <point index="1" xaxis="687" yaxis="585" />
+        <point index="2" xaxis="682" yaxis="621" />
+        <point index="3" xaxis="624" yaxis="602" />
+      </area>
+      <area>
+        <point index="0" xaxis="725" yaxis="1234" />
+        <point index="1" xaxis="729" yaxis="1104" />
+        <point index="2" xaxis="693" yaxis="1066" />
+        <point index="3" xaxis="690" yaxis="1247" />
+      </area>
+      <area>
+        <point index="0" xaxis="376" yaxis="1109" />
+        <point index="1" xaxis="388" yaxis="1068" />
+        <point index="2" xaxis="425" yaxis="1079" />
+        <point index="3" xaxis="436" yaxis="1106" />
+        <point index="4" xaxis="418" yaxis="1126" />
+      </area>
+      <area>
+        <point index="0" xaxis="534" yaxis="522" />
+        <point index="1" xaxis="466" yaxis="483" />
+        <point index="2" xaxis="450" yaxis="478" />
+        <point index="3" xaxis="427" yaxis="485" />
+        <point index="4" xaxis="432" yaxis="522" />
+        <point index="5" xaxis="414" yaxis="546" />
+        <point index="6" xaxis="370" yaxis="566" />
+        <point index="7" xaxis="352" yaxis="556" />
+        <point index="8" xaxis="304" yaxis="535" />
+        <point index="9" xaxis="261" yaxis="559" />
+        <point index="10" xaxis="355" yaxis="602" />
+        <point index="11" xaxis="475" yaxis="537" />
+        <point index="12" xaxis="487" yaxis="549" />
+      </area>
+      <area>
+        <point index="0" xaxis="212" yaxis="750" />
+        <point index="1" xaxis="187" yaxis="684" />
+        <point index="2" xaxis="194" yaxis="670" />
+        <point index="3" xaxis="187" yaxis="632" />
+        <point index="4" xaxis="112" yaxis="674" />
+        <point index="5" xaxis="147" yaxis="764" />
+      </area>
+      <area>
+        <point index="0" xaxis="655" yaxis="827" />
+        <point index="1" xaxis="720" yaxis="823" />
+        <point index="2" xaxis="726" yaxis="893" />
+        <point index="3" xaxis="829" yaxis="951" />
+        <point index="4" xaxis="957" yaxis="827" />
+        <point index="5" xaxis="900" yaxis="665" />
+        <point index="6" xaxis="689" yaxis="647" />
+        <point index="7" xaxis="656" yaxis="806" />
+      </area>
+      <area>
+        <point index="0" xaxis="608" yaxis="595" />
+        <point index="1" xaxis="532" yaxis="517" />
+        <point index="2" xaxis="485" yaxis="546" />
+        <point index="3" xaxis="507" yaxis="568" />
+        <point index="4" xaxis="562" yaxis="579" />
+        <point index="5" xaxis="561" yaxis="623" />
+        <point index="6" xaxis="530" yaxis="640" />
+        <point index="7" xaxis="472" yaxis="620" />
+        <point index="8" xaxis="350" yaxis="656" />
+        <point index="9" xaxis="293" yaxis="695" />
+        <point index="10" xaxis="290" yaxis="726" />
+        <point index="11" xaxis="193" yaxis="744" />
+        <point index="12" xaxis="228" yaxis="789" />
+        <point index="13" xaxis="429" yaxis="811" />
+        <point index="14" xaxis="554" yaxis="757" />
+        <point index="15" xaxis="697" yaxis="742" />
+      </area>
+      <area>
+        <point index="0" xaxis="625" yaxis="586" />
+        <point index="1" xaxis="590" yaxis="606" />
+        <point index="2" xaxis="688" yaxis="728" />
+        <point index="3" xaxis="750" yaxis="658" />
+        <point index="4" xaxis="733" yaxis="614" />
+      </area>
+      <area>
+        <point index="0" xaxis="150" yaxis="744" />
+        <point index="1" xaxis="130" yaxis="819" />
+        <point index="2" xaxis="106" yaxis="828" />
+        <point index="3" xaxis="83" yaxis="911" />
+        <point index="4" xaxis="62" yaxis="929" />
+        <point index="5" xaxis="171" yaxis="977" />
+        <point index="6" xaxis="239" yaxis="980" />
+        <point index="7" xaxis="237" yaxis="952" />
+        <point index="8" xaxis="357" yaxis="790" />
+        <point index="9" xaxis="187" yaxis="739" />
+      </area>
+      <area>
+        <point index="0" xaxis="640" yaxis="720" />
+        <point index="1" xaxis="637" yaxis="804" />
+        <point index="2" xaxis="661" yaxis="822" />
+        <point index="3" xaxis="719" yaxis="756" />
+        <point index="4" xaxis="677" yaxis="706" />
+      </area>
+      <area>
+        <point index="0" xaxis="660" yaxis="1002" />
+        <point index="1" xaxis="642" yaxis="1014" />
+        <point index="2" xaxis="620" yaxis="1011" />
+        <point index="3" xaxis="592" yaxis="1058" />
+        <point index="4" xaxis="507" yaxis="1048" />
+        <point index="5" xaxis="463" yaxis="1149" />
+        <point index="6" xaxis="426" yaxis="1142" />
+        <point index="7" xaxis="424" yaxis="1110" />
+        <point index="8" xaxis="254" yaxis="1082" />
+        <point index="9" xaxis="153" yaxis="1171" />
+        <point index="10" xaxis="517" yaxis="1276" />
+        <point index="11" xaxis="848" yaxis="1280" />
+        <point index="12" xaxis="783" yaxis="1253" />
+        <point index="13" xaxis="792" yaxis="1233" />
+        <point index="14" xaxis="787" yaxis="1211" />
+        <point index="15" xaxis="761" yaxis="1203" />
+        <point index="16" xaxis="742" yaxis="1221" />
+        <point index="17" xaxis="709" yaxis="1202" />
+        <point index="18" xaxis="719" yaxis="1090" />
+        <point index="19" xaxis="714" yaxis="1073" />
+        <point index="20" xaxis="718" yaxis="1005" />
+        <point index="21" xaxis="675" yaxis="985" />
+      </area>
+      <area>
+        <point index="0" xaxis="655" yaxis="936" />
+        <point index="1" xaxis="687" yaxis="956" />
+        <point index="2" xaxis="727" yaxis="944" />
+        <point index="3" xaxis="764" yaxis="888" />
+        <point index="4" xaxis="839" yaxis="935" />
+        <point index="5" xaxis="713" yaxis="1014" />
+        <point index="6" xaxis="630" yaxis="1019" />
+        <point index="7" xaxis="649" yaxis="1003" />
+        <point index="8" xaxis="644" yaxis="948" />
+      </area>
+      <area>
+        <point index="0" xaxis="658" yaxis="941" />
+        <point index="1" xaxis="647" yaxis="799" />
+        <point index="2" xaxis="639" yaxis="730" />
+        <point index="3" xaxis="619" yaxis="749" />
+        <point index="4" xaxis="607" yaxis="897" />
+        <point index="5" xaxis="624" yaxis="913" />
+        <point index="6" xaxis="625" yaxis="950" />
+        <point index="7" xaxis="650" yaxis="963" />
+      </area>
+    </walkover>
+    <events>
+      <event type="message" trigger="action">
+        <eventshape shape="area">
+          <point index="0" xaxis="732" yaxis="482" />
+          <point index="1" xaxis="664" yaxis="502" />
+          <point index="2" xaxis="641" yaxis="556" />
+          <point index="3" xaxis="690" yaxis="606" />
+          <point index="4" xaxis="795" yaxis="583" />
+          <point index="5" xaxis="803" yaxis="509" />
+          <point index="6" xaxis="760" yaxis="481" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+        Check the doorways for the key.
+      </event>
+      <event type="message" trigger="action">
+        <eventshape shape="area">
+          <point index="0" xaxis="757" yaxis="1198" />
+          <point index="1" xaxis="736" yaxis="1221" />
+          <point index="2" xaxis="778" yaxis="1252" />
+          <point index="3" xaxis="804" yaxis="1230" />
+          <point index="4" xaxis="807" yaxis="1205" />
+        </eventshape>
+        <eventcondition v1="0" v2="0" varorval="value" operation="2" enabled="true" />
+        You need a key!
+      </event>
+      <event type="teleport" trigger="action" mapid="1" xaxis="655" yaxis="837">
+        <eventshape shape="area">
+          <point index="0" xaxis="757" yaxis="1198" />
+          <point index="1" xaxis="738" yaxis="1224" />
+          <point index="2" xaxis="775" yaxis="1253" />
+          <point index="3" xaxis="808" yaxis="1231" />
+        </eventshape>
+        <eventcondition v1="0" v2="1" varorval="value" operation="3" enabled="true" />
+      </event>
+      <event type="variablechange" trigger="action" messageenabled="true">
+        <eventshape shape="area">
+          <point index="0" xaxis="383" yaxis="1061" />
+          <point index="1" xaxis="378" yaxis="1110" />
+          <point index="2" xaxis="419" yaxis="1131" />
+          <point index="3" xaxis="435" yaxis="1097" />
+          <point index="4" xaxis="425" yaxis="1075" />
+        </eventshape>
+        <eventcondition v1="0" v2="0" varorval="value" operation="2" enabled="true" />
+        <operations>
+          <variable index="0" value="1" operation="set" />
+        </operations>
+        You picked up a key!
+      </event>
+      <event type="teleport" trigger="action" mapid="3" xaxis="476" yaxis="1447">
+        <eventshape shape="area">
+          <point index="0" xaxis="1293" yaxis="337" />
+          <point index="1" xaxis="1027" yaxis="346" />
+          <point index="2" xaxis="1265" yaxis="422" />
+          <point index="3" xaxis="1303" yaxis="406" />
+          <point index="4" xaxis="1314" yaxis="345" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+      <event type="teleport" trigger="action" mapid="2" xaxis="391" yaxis="396">
+        <eventshape shape="area">
+          <point index="0" xaxis="461" yaxis="459" />
+          <point index="1" xaxis="398" yaxis="468" />
+          <point index="2" xaxis="405" yaxis="536" />
+          <point index="3" xaxis="451" yaxis="536" />
+          <point index="4" xaxis="519" yaxis="506" />
+          <point index="5" xaxis="492" yaxis="456" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+      <event type="teleport" trigger="action" mapid="6" xaxis="427" yaxis="300">
+        <eventshape shape="area">
+          <point index="0" xaxis="160" yaxis="1112" />
+          <point index="1" xaxis="252" yaxis="1137" />
+          <point index="2" xaxis="264" yaxis="1244" />
+          <point index="3" xaxis="129" yaxis="1209" />
+          <point index="4" xaxis="147" yaxis="1135" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+    </events>
+  </gamemap>
+  <gamemap id="1">
+    <perspective front="1.6428571428571428" back="1.0857142857142856" horizon="300.0" />
+    <foreground>
+      <foregrounditem img="foreground-15830327.png" xaxis="683" yaxis="405" />
+    </foreground>
+    <background img="background-7224926.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="676" yaxis="559" />
+        <point index="1" xaxis="681" yaxis="491" />
+        <point index="2" xaxis="667" yaxis="473" />
+        <point index="3" xaxis="657" yaxis="390" />
+        <point index="4" xaxis="490" yaxis="390" />
+        <point index="5" xaxis="474" yaxis="333" />
+        <point index="6" xaxis="525" yaxis="322" />
+        <point index="7" xaxis="560" yaxis="283" />
+        <point index="8" xaxis="544" yaxis="263" />
+        <point index="9" xaxis="550" yaxis="256" />
+        <point index="10" xaxis="590" yaxis="250" />
+        <point index="11" xaxis="589" yaxis="225" />
+        <point index="12" xaxis="709" yaxis="221" />
+        <point index="13" xaxis="708" yaxis="257" />
+        <point index="14" xaxis="755" yaxis="255" />
+        <point index="15" xaxis="769" yaxis="240" />
+        <point index="16" xaxis="784" yaxis="290" />
+        <point index="17" xaxis="760" yaxis="294" />
+        <point index="18" xaxis="749" yaxis="315" />
+        <point index="19" xaxis="749" yaxis="358" />
+        <point index="20" xaxis="797" yaxis="361" />
+        <point index="21" xaxis="801" yaxis="338" />
+        <point index="22" xaxis="814" yaxis="341" />
+        <point index="23" xaxis="892" yaxis="407" />
+        <point index="24" xaxis="898" yaxis="443" />
+        <point index="25" xaxis="758" yaxis="449" />
+        <point index="26" xaxis="761" yaxis="471" />
+        <point index="27" xaxis="744" yaxis="582" />
+        <point index="28" xaxis="677" yaxis="590" />
+      </area>
+      <area>
+        <point index="0" xaxis="414" yaxis="820" />
+        <point index="1" xaxis="380" yaxis="828" />
+        <point index="2" xaxis="367" yaxis="847" />
+        <point index="3" xaxis="380" yaxis="867" />
+        <point index="4" xaxis="444" yaxis="868" />
+      </area>
+      <area>
+        <point index="0" xaxis="683" yaxis="576" />
+        <point index="1" xaxis="507" yaxis="596" />
+        <point index="2" xaxis="497" yaxis="649" />
+        <point index="3" xaxis="717" yaxis="654" />
+        <point index="4" xaxis="709" yaxis="567" />
+      </area>
+      <area>
+        <point index="0" xaxis="508" yaxis="641" />
+        <point index="1" xaxis="703" yaxis="648" />
+        <point index="2" xaxis="707" yaxis="569" />
+        <point index="3" xaxis="743" yaxis="576" />
+        <point index="4" xaxis="763" yaxis="639" />
+        <point index="5" xaxis="823" yaxis="679" />
+        <point index="6" xaxis="859" yaxis="798" />
+        <point index="7" xaxis="883" yaxis="857" />
+        <point index="8" xaxis="383" yaxis="860" />
+        <point index="9" xaxis="385" yaxis="804" />
+        <point index="10" xaxis="412" yaxis="774" />
+        <point index="11" xaxis="425" yaxis="776" />
+        <point index="12" xaxis="448" yaxis="812" />
+        <point index="13" xaxis="497" yaxis="790" />
+        <point index="14" xaxis="487" yaxis="742" />
+        <point index="15" xaxis="444" yaxis="720" />
+        <point index="16" xaxis="454" yaxis="668" />
+        <point index="17" xaxis="500" yaxis="641" />
+      </area>
+    </walkover>
+    <events>
+      <event type="teleport" trigger="action" mapid="0" xaxis="761" yaxis="1232">
+        <eventshape shape="area">
+          <point index="0" xaxis="383" yaxis="827" />
+          <point index="1" xaxis="379" yaxis="864" />
+          <point index="2" xaxis="883" yaxis="864" />
+          <point index="3" xaxis="880" yaxis="814" />
+          <point index="4" xaxis="392" yaxis="824" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+    </events>
+  </gamemap>
+  <gamemap id="2">
+    <perspective front="0.8428571428571429" back="0.6571428571428571" horizon="300.0" />
+    <foreground />
+    <background img="background-29407392.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="415" yaxis="390" />
+        <point index="1" xaxis="397" yaxis="374" />
+        <point index="2" xaxis="486" yaxis="316" />
+        <point index="3" xaxis="473" yaxis="298" />
+        <point index="4" xaxis="452" yaxis="307" />
+        <point index="5" xaxis="406" yaxis="284" />
+        <point index="6" xaxis="388" yaxis="269" />
+        <point index="7" xaxis="376" yaxis="277" />
+        <point index="8" xaxis="440" yaxis="318" />
+        <point index="9" xaxis="379" yaxis="364" />
+        <point index="10" xaxis="362" yaxis="354" />
+        <point index="11" xaxis="350" yaxis="360" />
+        <point index="12" xaxis="325" yaxis="353" />
+        <point index="13" xaxis="325" yaxis="340" />
+        <point index="14" xaxis="332" yaxis="320" />
+        <point index="15" xaxis="315" yaxis="302" />
+        <point index="16" xaxis="326" yaxis="289" />
+        <point index="17" xaxis="300" yaxis="273" />
+        <point index="18" xaxis="253" yaxis="320" />
+        <point index="19" xaxis="387" yaxis="414" />
+      </area>
+      <area>
+        <point index="0" xaxis="257" yaxis="323" />
+        <point index="1" xaxis="222" yaxis="331" />
+        <point index="2" xaxis="213" yaxis="350" />
+        <point index="3" xaxis="202" yaxis="353" />
+        <point index="4" xaxis="181" yaxis="351" />
+        <point index="5" xaxis="139" yaxis="393" />
+        <point index="6" xaxis="123" yaxis="386" />
+        <point index="7" xaxis="143" yaxis="366" />
+        <point index="8" xaxis="227" yaxis="310" />
+        <point index="9" xaxis="217" yaxis="289" />
+        <point index="10" xaxis="247" yaxis="264" />
+        <point index="11" xaxis="220" yaxis="232" />
+        <point index="12" xaxis="221" yaxis="196" />
+        <point index="13" xaxis="234" yaxis="185" />
+        <point index="14" xaxis="262" yaxis="206" />
+        <point index="15" xaxis="267" yaxis="231" />
+        <point index="16" xaxis="309" yaxis="261" />
+        <point index="17" xaxis="303" yaxis="298" />
+      </area>
+      <area>
+        <point index="0" xaxis="254" yaxis="313" />
+        <point index="1" xaxis="253" yaxis="340" />
+        <point index="2" xaxis="285" yaxis="358" />
+        <point index="3" xaxis="316" yaxis="376" />
+        <point index="4" xaxis="307" yaxis="443" />
+        <point index="5" xaxis="371" yaxis="392" />
+      </area>
+    </walkover>
+    <events>
+      <event type="teleport" trigger="action" mapid="0" xaxis="450" yaxis="515">
+        <eventshape shape="area">
+          <point index="0" xaxis="409" yaxis="391" />
+          <point index="1" xaxis="402" yaxis="370" />
+          <point index="2" xaxis="355" yaxis="377" />
+          <point index="3" xaxis="345" yaxis="419" />
+          <point index="4" xaxis="389" yaxis="443" />
+          <point index="5" xaxis="423" yaxis="393" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+    </events>
+  </gamemap>
+  <gamemap id="3">
+    <perspective front="1.3428571428571427" back="1.2428571428571429" horizon="300.0" />
+    <foreground />
+    <background img="background-26810747.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="289" yaxis="1500" />
+        <point index="1" xaxis="290" yaxis="1465" />
+        <point index="2" xaxis="356" yaxis="1465" />
+        <point index="3" xaxis="362" yaxis="1395" />
+        <point index="4" xaxis="381" yaxis="1344" />
+        <point index="5" xaxis="352" yaxis="1268" />
+        <point index="6" xaxis="482" yaxis="1195" />
+        <point index="7" xaxis="520" yaxis="1143" />
+        <point index="8" xaxis="497" yaxis="1056" />
+        <point index="9" xaxis="434" yaxis="957" />
+        <point index="10" xaxis="336" yaxis="978" />
+        <point index="11" xaxis="152" yaxis="1091" />
+        <point index="12" xaxis="94" yaxis="1058" />
+        <point index="13" xaxis="33" yaxis="1073" />
+        <point index="14" xaxis="42" yaxis="855" />
+        <point index="15" xaxis="96" yaxis="860" />
+        <point index="16" xaxis="175" yaxis="808" />
+        <point index="17" xaxis="155" yaxis="779" />
+        <point index="18" xaxis="207" yaxis="769" />
+        <point index="19" xaxis="210" yaxis="708" />
+        <point index="20" xaxis="242" yaxis="679" />
+        <point index="21" xaxis="216" yaxis="634" />
+        <point index="22" xaxis="299" yaxis="569" />
+        <point index="23" xaxis="317" yaxis="530" />
+        <point index="24" xaxis="265" yaxis="391" />
+        <point index="25" xaxis="167" yaxis="388" />
+        <point index="26" xaxis="197" yaxis="274" />
+        <point index="27" xaxis="250" yaxis="287" />
+        <point index="28" xaxis="271" yaxis="239" />
+        <point index="29" xaxis="321" yaxis="180" />
+        <point index="30" xaxis="837" yaxis="363" />
+        <point index="31" xaxis="792" yaxis="426" />
+        <point index="32" xaxis="755" yaxis="430" />
+        <point index="33" xaxis="742" yaxis="481" />
+        <point index="34" xaxis="764" yaxis="514" />
+        <point index="35" xaxis="704" yaxis="608" />
+        <point index="36" xaxis="707" yaxis="653" />
+        <point index="37" xaxis="702" yaxis="716" />
+        <point index="38" xaxis="677" yaxis="792" />
+        <point index="39" xaxis="730" yaxis="843" />
+        <point index="40" xaxis="844" yaxis="880" />
+        <point index="41" xaxis="1015" yaxis="809" />
+        <point index="42" xaxis="1004" yaxis="961" />
+        <point index="43" xaxis="913" yaxis="954" />
+        <point index="44" xaxis="872" yaxis="1043" />
+        <point index="45" xaxis="748" yaxis="1090" />
+        <point index="46" xaxis="767" yaxis="1174" />
+        <point index="47" xaxis="735" yaxis="1263" />
+        <point index="48" xaxis="603" yaxis="1310" />
+        <point index="49" xaxis="617" yaxis="1513" />
+      </area>
+      <area>
+        <point index="0" xaxis="297" yaxis="1493" />
+        <point index="1" xaxis="292" yaxis="1515" />
+        <point index="2" xaxis="446" yaxis="1507" />
+        <point index="3" xaxis="450" yaxis="1480" />
+      </area>
+      <area>
+        <point index="0" xaxis="813" yaxis="874" />
+        <point index="1" xaxis="831" yaxis="845" />
+        <point index="2" xaxis="876" yaxis="825" />
+        <point index="3" xaxis="884" yaxis="806" />
+        <point index="4" xaxis="919" yaxis="808" />
+        <point index="5" xaxis="964" yaxis="843" />
+        <point index="6" xaxis="847" yaxis="904" />
+      </area>
+      <area>
+        <point index="0" xaxis="163" yaxis="426" />
+        <point index="1" xaxis="239" yaxis="397" />
+        <point index="2" xaxis="274" yaxis="419" />
+        <point index="3" xaxis="311" yaxis="373" />
+        <point index="4" xaxis="190" yaxis="326" />
+        <point index="5" xaxis="155" yaxis="404" />
+      </area>
+    </walkover>
+    <events>
+      <event type="teleport" trigger="action" mapid="0" xaxis="1196" yaxis="381">
+        <eventshape shape="area">
+          <point index="0" xaxis="291" yaxis="1467" />
+          <point index="1" xaxis="294" yaxis="1509" />
+          <point index="2" xaxis="617" yaxis="1512" />
+          <point index="3" xaxis="617" yaxis="1461" />
+          <point index="4" xaxis="304" yaxis="1468" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+      <event type="teleport" trigger="action" mapid="4" xaxis="286" yaxis="1917">
+        <eventshape shape="area">
+          <point index="0" xaxis="1013" yaxis="806" />
+          <point index="1" xaxis="926" yaxis="821" />
+          <point index="2" xaxis="903" yaxis="962" />
+          <point index="3" xaxis="1019" yaxis="972" />
+          <point index="4" xaxis="1016" yaxis="804" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+    </events>
+  </gamemap>
+  <gamemap id="4">
+    <perspective front="1.6857142857142857" back="1.0142857142857142" horizon="418.0" />
+    <foreground>
+      <foregrounditem img="foreground-5757973.png" xaxis="511" yaxis="969" />
+    </foreground>
+    <background img="background-3277721.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="147" yaxis="1914" />
+        <point index="1" xaxis="159" yaxis="1866" />
+        <point index="2" xaxis="225" yaxis="1804" />
+        <point index="3" xaxis="197" yaxis="1695" />
+        <point index="4" xaxis="183" yaxis="1654" />
+        <point index="5" xaxis="206" yaxis="1613" />
+        <point index="6" xaxis="264" yaxis="1611" />
+        <point index="7" xaxis="318" yaxis="1583" />
+        <point index="8" xaxis="282" yaxis="1533" />
+        <point index="9" xaxis="308" yaxis="1502" />
+        <point index="10" xaxis="293" yaxis="1484" />
+        <point index="11" xaxis="371" yaxis="1417" />
+        <point index="12" xaxis="461" yaxis="1460" />
+        <point index="13" xaxis="467" yaxis="1572" />
+        <point index="14" xaxis="477" yaxis="1663" />
+        <point index="15" xaxis="419" yaxis="1769" />
+        <point index="16" xaxis="419" yaxis="1913" />
+      </area>
+      <area>
+        <point index="0" xaxis="346" yaxis="1446" />
+        <point index="1" xaxis="355" yaxis="1317" />
+        <point index="2" xaxis="169" yaxis="1264" />
+        <point index="3" xaxis="245" yaxis="1188" />
+        <point index="4" xaxis="197" yaxis="1140" />
+        <point index="5" xaxis="114" yaxis="1101" />
+        <point index="6" xaxis="114" yaxis="1057" />
+        <point index="7" xaxis="137" yaxis="1045" />
+        <point index="8" xaxis="136" yaxis="1021" />
+        <point index="9" xaxis="280" yaxis="958" />
+        <point index="10" xaxis="313" yaxis="973" />
+        <point index="11" xaxis="346" yaxis="957" />
+        <point index="12" xaxis="303" yaxis="889" />
+        <point index="13" xaxis="300" yaxis="832" />
+        <point index="14" xaxis="181" yaxis="816" />
+        <point index="15" xaxis="61" yaxis="875" />
+        <point index="16" xaxis="59" yaxis="793" />
+        <point index="17" xaxis="97" yaxis="684" />
+        <point index="18" xaxis="160" yaxis="712" />
+        <point index="19" xaxis="389" yaxis="760" />
+        <point index="20" xaxis="472" yaxis="818" />
+        <point index="21" xaxis="462" yaxis="881" />
+        <point index="22" xaxis="462" yaxis="957" />
+        <point index="23" xaxis="392" yaxis="1056" />
+        <point index="24" xaxis="388" yaxis="1096" />
+        <point index="25" xaxis="463" yaxis="1126" />
+        <point index="26" xaxis="568" yaxis="1017" />
+        <point index="27" xaxis="696" yaxis="1021" />
+        <point index="28" xaxis="778" yaxis="1009" />
+        <point index="29" xaxis="830" yaxis="1034" />
+        <point index="30" xaxis="836" yaxis="1112" />
+        <point index="31" xaxis="558" yaxis="1168" />
+        <point index="32" xaxis="545" yaxis="1287" />
+        <point index="33" xaxis="469" yaxis="1366" />
+        <point index="34" xaxis="441" yaxis="1479" />
+      </area>
+      <area>
+        <point index="0" xaxis="488" yaxis="1322" />
+        <point index="1" xaxis="597" yaxis="1363" />
+        <point index="2" xaxis="598" yaxis="1426" />
+        <point index="3" xaxis="685" yaxis="1498" />
+        <point index="4" xaxis="784" yaxis="1506" />
+        <point index="5" xaxis="966" yaxis="1423" />
+        <point index="6" xaxis="927" yaxis="1302" />
+        <point index="7" xaxis="809" yaxis="1382" />
+        <point index="8" xaxis="634" yaxis="1354" />
+        <point index="9" xaxis="622" yaxis="1304" />
+        <point index="10" xaxis="535" yaxis="1280" />
+      </area>
+      <area>
+        <point index="0" xaxis="463" yaxis="825" />
+        <point index="1" xaxis="477" yaxis="782" />
+        <point index="2" xaxis="770" yaxis="718" />
+        <point index="3" xaxis="658" yaxis="636" />
+        <point index="4" xaxis="806" yaxis="502" />
+        <point index="5" xaxis="854" yaxis="506" />
+        <point index="6" xaxis="904" yaxis="559" />
+        <point index="7" xaxis="1013" yaxis="550" />
+        <point index="8" xaxis="1008" yaxis="379" />
+        <point index="9" xaxis="115" yaxis="382" />
+        <point index="10" xaxis="115" yaxis="534" />
+        <point index="11" xaxis="342" yaxis="539" />
+        <point index="12" xaxis="418" yaxis="579" />
+        <point index="13" xaxis="393" yaxis="718" />
+        <point index="14" xaxis="285" yaxis="757" />
+        <point index="15" xaxis="438" yaxis="838" />
+      </area>
+      <area>
+        <point index="0" xaxis="208" yaxis="388" />
+        <point index="1" xaxis="225" yaxis="307" />
+        <point index="2" xaxis="793" yaxis="318" />
+        <point index="3" xaxis="791" yaxis="396" />
+      </area>
+      <area>
+        <point index="0" xaxis="155" yaxis="1888" />
+        <point index="1" xaxis="126" yaxis="1983" />
+        <point index="2" xaxis="408" yaxis="1983" />
+        <point index="3" xaxis="404" yaxis="1903" />
+      </area>
+    </walkover>
+    <events>
+      <event type="teleport" trigger="action" mapid="3" xaxis="961" yaxis="910">
+        <eventshape shape="area">
+          <point index="0" xaxis="150" yaxis="1914" />
+          <point index="1" xaxis="128" yaxis="1978" />
+          <point index="2" xaxis="405" yaxis="1977" />
+          <point index="3" xaxis="417" yaxis="1897" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+      <event type="teleport" trigger="action" mapid="5" xaxis="401" yaxis="334">
+        <eventshape shape="area">
+          <point index="0" xaxis="1007" yaxis="368" />
+          <point index="1" xaxis="928" yaxis="368" />
+          <point index="2" xaxis="918" yaxis="561" />
+          <point index="3" xaxis="1026" yaxis="563" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+    </events>
+  </gamemap>
+  <gamemap id="5">
+    <perspective front="1.2571428571428571" back="1.1428571428571428" horizon="300.0" />
+    <foreground>
+      <foregrounditem img="foreground-25836061.png" xaxis="750" yaxis="395" />
+    </foreground>
+    <background img="background-32336015.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="399" yaxis="283" />
+        <point index="1" xaxis="361" yaxis="319" />
+        <point index="2" xaxis="355" yaxis="386" />
+        <point index="3" xaxis="230" yaxis="456" />
+        <point index="4" xaxis="481" yaxis="582" />
+        <point index="5" xaxis="625" yaxis="615" />
+        <point index="6" xaxis="833" yaxis="644" />
+        <point index="7" xaxis="1007" yaxis="699" />
+        <point index="8" xaxis="1224" yaxis="702" />
+        <point index="9" xaxis="1309" yaxis="695" />
+        <point index="10" xaxis="1386" yaxis="734" />
+        <point index="11" xaxis="1488" yaxis="733" />
+        <point index="12" xaxis="1487" yaxis="598" />
+        <point index="13" xaxis="1311" yaxis="539" />
+        <point index="14" xaxis="1315" yaxis="505" />
+        <point index="15" xaxis="1281" yaxis="468" />
+        <point index="16" xaxis="1193" yaxis="466" />
+        <point index="17" xaxis="1150" yaxis="434" />
+        <point index="18" xaxis="1158" yaxis="407" />
+        <point index="19" xaxis="1143" yaxis="373" />
+        <point index="20" xaxis="1082" yaxis="371" />
+        <point index="21" xaxis="1053" yaxis="345" />
+        <point index="22" xaxis="1045" yaxis="281" />
+        <point index="23" xaxis="1060" yaxis="242" />
+        <point index="24" xaxis="1101" yaxis="237" />
+        <point index="25" xaxis="1100" yaxis="211" />
+        <point index="26" xaxis="1116" yaxis="159" />
+        <point index="27" xaxis="1053" yaxis="147" />
+        <point index="28" xaxis="922" yaxis="263" />
+        <point index="29" xaxis="869" yaxis="286" />
+        <point index="30" xaxis="905" yaxis="327" />
+        <point index="31" xaxis="899" yaxis="377" />
+        <point index="32" xaxis="784" yaxis="405" />
+        <point index="33" xaxis="668" yaxis="383" />
+        <point index="34" xaxis="607" yaxis="318" />
+        <point index="35" xaxis="619" yaxis="276" />
+        <point index="36" xaxis="547" yaxis="253" />
+        <point index="37" xaxis="465" yaxis="312" />
+        <point index="38" xaxis="408" yaxis="286" />
+      </area>
+    </walkover>
+    <events>
+      <event type="teleport" trigger="action" mapid="6" xaxis="112" yaxis="967">
+        <eventshape shape="area">
+          <point index="0" xaxis="1028" yaxis="137" />
+          <point index="1" xaxis="965" yaxis="179" />
+          <point index="2" xaxis="938" yaxis="232" />
+          <point index="3" xaxis="1106" yaxis="265" />
+          <point index="4" xaxis="1147" yaxis="155" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+      <event type="teleport" trigger="action" mapid="4" xaxis="950" yaxis="455">
+        <eventshape shape="area">
+          <point index="0" xaxis="467" yaxis="294" />
+          <point index="1" xaxis="383" yaxis="251" />
+          <point index="2" xaxis="328" yaxis="309" />
+          <point index="3" xaxis="337" yaxis="398" />
+          <point index="4" xaxis="409" yaxis="410" />
+          <point index="5" xaxis="486" yaxis="324" />
+        </eventshape>
+        <eventcondition v1="1" v2="1" varorval="value" operation="2" enabled="true" />
+      </event>
+      <event type="message" trigger="action">
+        <eventshape shape="area">
+          <point index="0" xaxis="474" yaxis="300" />
+          <point index="1" xaxis="408" yaxis="260" />
+          <point index="2" xaxis="334" yaxis="292" />
+          <point index="3" xaxis="342" yaxis="390" />
+          <point index="4" xaxis="413" yaxis="398" />
+          <point index="5" xaxis="481" yaxis="331" />
+        </eventshape>
+        <eventcondition v1="1" v2="0" varorval="value" operation="2" enabled="true" />
+        This way looks scary!
+Maybe I should explore somewhere else
+first?
+      </event>
+    </events>
+  </gamemap>
+  <gamemap id="6">
+    <perspective front="1.1" back="0.6" horizon="300.0" />
+    <foreground />
+    <background img="background-23828675.png" />
+    <walkover>
+      <area>
+        <point index="0" xaxis="110" yaxis="929" />
+        <point index="1" xaxis="76" yaxis="952" />
+        <point index="2" xaxis="88" yaxis="993" />
+        <point index="3" xaxis="210" yaxis="1067" />
+        <point index="4" xaxis="221" yaxis="1122" />
+        <point index="5" xaxis="281" yaxis="1121" />
+        <point index="6" xaxis="287" yaxis="1044" />
+        <point index="7" xaxis="336" yaxis="1064" />
+        <point index="8" xaxis="453" yaxis="1151" />
+        <point index="9" xaxis="561" yaxis="1144" />
+        <point index="10" xaxis="685" yaxis="1174" />
+        <point index="11" xaxis="731" yaxis="1175" />
+        <point index="12" xaxis="868" yaxis="1103" />
+        <point index="13" xaxis="823" yaxis="998" />
+        <point index="14" xaxis="963" yaxis="928" />
+        <point index="15" xaxis="938" yaxis="757" />
+        <point index="16" xaxis="774" yaxis="728" />
+        <point index="17" xaxis="739" yaxis="628" />
+        <point index="18" xaxis="666" yaxis="581" />
+        <point index="19" xaxis="671" yaxis="512" />
+        <point index="20" xaxis="673" yaxis="440" />
+        <point index="21" xaxis="840" yaxis="285" />
+        <point index="22" xaxis="720" yaxis="175" />
+        <point index="23" xaxis="595" yaxis="249" />
+        <point index="24" xaxis="474" yaxis="245" />
+        <point index="25" xaxis="432" yaxis="290" />
+        <point index="26" xaxis="418" yaxis="266" />
+        <point index="27" xaxis="380" yaxis="268" />
+        <point index="28" xaxis="387" yaxis="287" />
+        <point index="29" xaxis="350" yaxis="367" />
+        <point index="30" xaxis="360" yaxis="431" />
+        <point index="31" xaxis="454" yaxis="522" />
+        <point index="32" xaxis="508" yaxis="628" />
+        <point index="33" xaxis="488" yaxis="728" />
+        <point index="34" xaxis="476" yaxis="766" />
+        <point index="35" xaxis="360" yaxis="771" />
+        <point index="36" xaxis="338" yaxis="828" />
+        <point index="37" xaxis="352" yaxis="879" />
+        <point index="38" xaxis="252" yaxis="921" />
+        <point index="39" xaxis="170" yaxis="946" />
+        <point index="40" xaxis="117" yaxis="932" />
+      </area>
+    </walkover>
+    <events>
+      <event type="teleport" trigger="action" mapid="5" xaxis="1052" yaxis="204">
+        <eventshape shape="area">
+          <point index="0" xaxis="102" yaxis="924" />
+          <point index="1" xaxis="68" yaxis="945" />
+          <point index="2" xaxis="77" yaxis="975" />
+          <point index="3" xaxis="97" yaxis="997" />
+          <point index="4" xaxis="151" yaxis="928" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+      </event>
+      <event type="variablechange" trigger="action" messageenabled="true">
+        <eventshape shape="area">
+          <point index="0" xaxis="417" yaxis="241" />
+          <point index="1" xaxis="391" yaxis="241" />
+          <point index="2" xaxis="368" yaxis="289" />
+          <point index="3" xaxis="370" yaxis="320" />
+          <point index="4" xaxis="439" yaxis="353" />
+          <point index="5" xaxis="481" yaxis="296" />
+        </eventshape>
+        <eventcondition v1="-1" v2="-1" varorval="variable" operation="-1" enabled="false" />
+        <operations>
+          <variable index="1" value="1" operation="set" />
+        </operations>
+        This is no exit. There is a sword here!
+This will help me visit scary
+places with confidence!
+      </event>
+    </events>
+  </gamemap>
+</game>
+
